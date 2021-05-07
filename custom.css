@@ -1,0 +1,15 @@
+table {
+    width:110%;
+}
+
+
+<style>
+img
+{
+    display:block; 
+    float:none; 
+    margin-left:auto;
+    margin-right:auto;
+    width:10px;
+}
+</style> 
